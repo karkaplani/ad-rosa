@@ -1,2 +1,6 @@
 # AdRosa
-First 3D game
+Exposure to Unity's 3D mechanics. If you don't like weirdly disturbing things, don't play/watch the game.
+
+To play the game => https://drive.google.com/file/d/1ZVmGEqHDZcjLBh05O8RNTet-_HAADBm1/view?usp=sharing
+
+Gameplay video => https://www.youtube.com/watch?v=8ehldKEeD24
